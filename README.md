@@ -1,5 +1,4 @@
-# Projects associated with the CIT-110 course
-
+## Assignment Index
 
 | Projects | Quick Link |
 | :--- | :--- |
