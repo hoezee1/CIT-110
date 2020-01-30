@@ -1,5 +1,6 @@
 # Assignment Index
-
+* <a href="The%20Conversation/">The Conversation</a>
+* <a href="The%20Expert%20System/">The Expert System</a>
 * <a href="cengage_exercises">Cengage Exercises</a>
   * <a href="cengage_exercises/Mission_1_Communications">Mission_1_Communications</a>
     * <a href="cengage_exercises/Mission_1_Communications/Exercise_1.zip">Exercise_1-5</a>
@@ -12,4 +13,3 @@
     * <a href="cengage_exercises/Mission_2_The_Expert_System/Exercise_4-3_Admission.zip">Exercise_4-3_Admission.zip</a>
     * <a href="cengage_exercises/Mission_2_The_Expert_System/Exercise_5-1_DebugFive1.zip">Exercise_5-1_DebugFive1.zip</a>
     * <a href="cengage_exercises/Mission_2_The_Expert_System/Exercise_5-1_SumFiveInts.zip">Exercise_5-1_SumFiveInts.zip</a>
-* <a href="The%20Conversation/">The Conversation</a>
