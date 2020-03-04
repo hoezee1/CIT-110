@@ -2,6 +2,7 @@
 * <a href="The%20Conversation/">The Conversation</a>
 * <a href="The%20Expert%20System/">The Expert System</a>
 * <a href="Finch_Control/">Finch_Control</a>
+  * <a href="Finch_Control/module_1">Talent_Show</a>
 * <a href="cengage_exercises">Cengage Exercises</a>
   * <a href="cengage_exercises/Mission_1_Communications">Mission_1_Communications</a>
     * <a href="cengage_exercises/Mission_1_Communications/Exercise_1.zip">Exercise_1-5</a>
