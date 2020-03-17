@@ -4,6 +4,7 @@
 * <a href="Finch_Control/">Finch_Control</a>
   * <a href="Finch_Control/module_1">Talent_Show</a>
   * <a href="Finch_Control/module_2">Data Recorder</a>
+  * <a href="Finch_Control/module_3">Alarm System</a>
 * <a href="cengage_exercises">Cengage Exercises</a>
   * <a href="cengage_exercises/Mission_1_Communications">Mission_1_Communications</a>
     * <a href="cengage_exercises/Mission_1_Communications/Exercise_1.zip">Exercise_1-5</a>
