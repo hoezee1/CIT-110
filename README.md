@@ -7,6 +7,8 @@
   * <a href="Finch_Control/module_3">Alarm System</a>
   * <a href="Finch_Control/module_4">User Programming</a>
   * <a href="Finch_Control/module_5">Persistence</a>
+* <a href="The_Capstone_Project/">The_Capstone_Project</a>
+  * <a href="The_Capstone_Project/Joey_Hoezee_Mission4-Capstone-PapersPlease.zip">PapersPlease</a>
 * <a href="cengage_exercises">Cengage Exercises</a>
   * <a href="cengage_exercises/Mission_1_Communications">Mission_1_Communications</a>
     * <a href="cengage_exercises/Mission_1_Communications/Exercise_1.zip">Exercise_1-5</a>
