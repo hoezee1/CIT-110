@@ -1,0 +1,8 @@
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part2-console/Data_Recorder/bin/Debug/Data_Recorder.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part2-console/Data_Recorder/bin/Debug/Data_Recorder.pdb
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part2-console/Data_Recorder/bin/Debug/FinchAPI.dll
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part2-console/Data_Recorder/bin/Debug/HidSharp.dll
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part2-console/Data_Recorder/obj/x86/Debug/Data_Recorder.csprojAssemblyReference.cache
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part2-console/Data_Recorder/obj/x86/Debug/Data_Recorder.csproj.CopyComplete
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part2-console/Data_Recorder/obj/x86/Debug/Data_Recorder.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part2-console/Data_Recorder/obj/x86/Debug/Data_Recorder.pdb
