@@ -1,0 +1,7 @@
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/Mission4_Capstone/Mission4-Capstone-PapersPlease/PapersPlease/bin/Debug/PapersPlease.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/Mission4_Capstone/Mission4-Capstone-PapersPlease/PapersPlease/bin/Debug/PapersPlease.pdb
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/Mission4_Capstone/Mission4-Capstone-PapersPlease/PapersPlease/bin/Debug/Mono.Options.dll
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/Mission4_Capstone/Mission4-Capstone-PapersPlease/PapersPlease/obj/x86/Debug/PapersPlease.csproj.CopyComplete
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/Mission4_Capstone/Mission4-Capstone-PapersPlease/PapersPlease/obj/x86/Debug/PapersPlease.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/Mission4_Capstone/Mission4-Capstone-PapersPlease/PapersPlease/obj/x86/Debug/PapersPlease.pdb
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/Mission4_Capstone/Mission4-Capstone-PapersPlease/PapersPlease/obj/x86/Debug/PapersPlease.csprojAssemblyReference.cache
