@@ -1,0 +1,8 @@
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part4/user_programming/obj/x86/Debug/user_programming.csprojAssemblyReference.cache
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part4/user_programming/bin/Debug/user_programming.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part4/user_programming/bin/Debug/user_programming.pdb
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part4/user_programming/bin/Debug/FinchAPI.dll
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part4/user_programming/bin/Debug/HidSharp.dll
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part4/user_programming/obj/x86/Debug/user_programming.csproj.CopyComplete
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part4/user_programming/obj/x86/Debug/user_programming.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part4/user_programming/obj/x86/Debug/user_programming.pdb
