@@ -1,0 +1,5 @@
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Conversation/bin/Debug/The_Conversation.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Conversation/bin/Debug/The_Conversation.pdb
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Conversation/obj/x86/Debug/The_Conversation.csprojAssemblyReference.cache
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Conversation/obj/x86/Debug/The_Conversation.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Conversation/obj/x86/Debug/The_Conversation.pdb
