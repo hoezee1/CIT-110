@@ -1,0 +1,5 @@
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Expert_System/The_Expert_System/bin/Debug/The_Expert_System.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Expert_System/The_Expert_System/bin/Debug/The_Expert_System.pdb
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Expert_System/The_Expert_System/obj/x86/Debug/The_Expert_System.csprojAssemblyReference.cache
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Expert_System/The_Expert_System/obj/x86/Debug/The_Expert_System.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/The_Expert_System/The_Expert_System/obj/x86/Debug/The_Expert_System.pdb
