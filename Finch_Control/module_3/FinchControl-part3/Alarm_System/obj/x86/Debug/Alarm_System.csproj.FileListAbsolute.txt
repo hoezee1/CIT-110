@@ -1,0 +1,8 @@
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part3/Alarm_System/bin/Debug/Alarm_System.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part3/Alarm_System/bin/Debug/Alarm_System.pdb
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part3/Alarm_System/bin/Debug/FinchAPI.dll
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part3/Alarm_System/bin/Debug/HidSharp.dll
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part3/Alarm_System/obj/x86/Debug/Alarm_System.csprojAssemblyReference.cache
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part3/Alarm_System/obj/x86/Debug/Alarm_System.csproj.CopyComplete
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part3/Alarm_System/obj/x86/Debug/Alarm_System.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/FinchControl-part3/Alarm_System/obj/x86/Debug/Alarm_System.pdb
