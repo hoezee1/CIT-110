@@ -1,0 +1,8 @@
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/testing_for_IO_part5/testing_for_IO_part5/obj/x86/Debug/testing_for_IO_part5.csprojAssemblyReference.cache
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/testing_for_IO_part5/testing_for_IO_part5/bin/Debug/testing_for_IO_part5.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/testing_for_IO_part5/testing_for_IO_part5/bin/Debug/testing_for_IO_part5.pdb
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/testing_for_IO_part5/testing_for_IO_part5/obj/x86/Debug/testing_for_IO_part5.exe
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/testing_for_IO_part5/testing_for_IO_part5/obj/x86/Debug/testing_for_IO_part5.pdb
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/testing_for_IO_part5/testing_for_IO_part5/bin/Debug/FinchAPI.dll
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/testing_for_IO_part5/testing_for_IO_part5/bin/Debug/HidSharp.dll
+/home/nullsec/Desktop/NMC_Spring_2020/CIT110/testing_for_IO_part5/testing_for_IO_part5/obj/x86/Debug/testing_for_IO_part5.csproj.CopyComplete
